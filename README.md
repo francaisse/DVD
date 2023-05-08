@@ -1,5 +1,5 @@
 # Data Visualization & Dashboarding
-HOW HAS THE COST-OF-LIVING CRISIS IMPACTED THE MAJORITY OF ADULTS IN ENGLAND?
+How has the cost-of-living crisis impacted the majority of adults in England?
 
 Project Description:
 The high cost of living refers to the amount of money required to maintain a certain standard of living, which includes the cost of necessities such as housing, food, healthcare, education, and transportation. When the cost of living is high, it can be difficult for people to afford these necessities, which can have a negative impact on their overall well-being and quality of life.
